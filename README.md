@@ -14,9 +14,10 @@
 ## 快速开始
 
 ```bash
-bun install       # 安装依赖（需要 Bun ≥ 1.3.5、Node.js ≥ 24）
-bun run dev       # 启动 CLI
-bun run version   # 验证版本
+npm install -g bun  # 安装 bun
+bun install         # 安装依赖（需要 Bun ≥ 1.3.5、Node.js ≥ 24）
+bun run dev         # 启动 CLI
+bun run version     # 验证版本
 ```
 
 ---
